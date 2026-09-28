@@ -10,3 +10,7 @@ Each entry links to an instruction file and summarizes when to use it.
   + Keywords: Jira story, user story, business requirements, acceptance criteria, story draft
 - [`./instructions/create-status-report.agent.md`](./create-status-report.agent.md) — generate concise weekly team status reports.
   + Keywords: weekly status report, team update, accomplishments, blockers, next week
+- [`./instructions/calculate-compound-interest.agent.md`](./calculate-compound-interest.agent.md) — calculate compound interest using the repository's command-line tool.
+  + Keywords: compound interest, calculate interest, final amount, interest earned, compounding
+- [`./instructions/use-sprint-commitment.agent.md`](./use-sprint-commitment.agent.md) — calculate sprint commitment from sprint-start issue snapshots.
+  + Keywords: sprint commitment, committed story points, sprint-start snapshot, unestimated issues
